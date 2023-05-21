@@ -1,6 +1,5 @@
 /*
 Escreva um programa em C que determine se um número é positivo, negativo ou zero.
-
 Requesitos
 1. Solicitar o numero ao usuario
 2. Decidir se o numero é negativo, positivo ou zero
